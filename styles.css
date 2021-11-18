@@ -1,0 +1,18 @@
+body{
+  background-color: #e8e8e8
+}
+
+.top
+{
+  text-align: center;
+}
+
+.title
+{
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+.container{
+  text-align: center;
+}
